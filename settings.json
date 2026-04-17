@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mladenovici4.aternos.me:16587",
+    "ip": "Mladenovici4.aternos.me",
     "port": 16587,
     "version": "1.21.1"
   },
